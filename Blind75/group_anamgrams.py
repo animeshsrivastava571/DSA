@@ -14,3 +14,5 @@ for word in lst_words:
          dict_wrds[word1] = [word]
     
 print(dict_wrds.values())
+
+
