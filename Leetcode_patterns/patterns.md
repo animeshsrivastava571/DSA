@@ -6,10 +6,11 @@
 ## Two Pointers
 - **167.** Two Sum II - Input Array is Sorted  
 - **15.** 3 Sum  
-- **11.** Container with Most Water  
+- **11.** Container with Most Water
+
 
 ## Sliding Window
-- **643.** Maximum Average Subarray I  
+- **643.** Maximum Average Subarray
 - **3.** Longest Substring Without Repeating Characters  
 - **76.** Minimum Window Substring  
 
@@ -26,7 +27,7 @@
 ## Monotonic Stack
 - **496.** Next Greater Element I  
 - **739.** Daily Temperatures  
-- **84.** Largest Rectangle in Histogram  
+- **84.** Largest Rectangle in Histogram    
 
 ## Top K Elements or Min/Max Heap
 - **215.** Kth Largest Element in an Array  
